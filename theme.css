@@ -70,9 +70,9 @@
    --background-mentioned: #bde6fb10;
    --background-mentioned-hover: #bde6fb15;
    /* modifiers */
-   --background-modifier-hover: #262e33;
+   --background-modifier-hover: #33353a;
    --background-modifier-active: #495a63;
-   --background-modifier-selected: red;
+   --background-modifier-selected: #404249;
    --background-modifier-accent: transparent;
    --background-message-hover: transparent;
    /* text */
@@ -99,8 +99,8 @@
    --button-background: #2a3439;
    --button-background-hover: #354249;
    --button-background-active: #4d5f68;
-   --button-accent: var(--accent-color);
-   --button-accent-hover: #d2f3ff;
+   --button-accent: #4752c4;
+   --button-accent-hover: #2f3ab3;
    --button-accent-active: #8dd4f8;
    --button-destructive: #fb7c7c;
    --button-destructive-hover: #ff929b;
