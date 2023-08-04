@@ -91,13 +91,13 @@
   --settings-icon-color: #8eacbc;
   --control-brand-foreground: var(--accent-color);
   --info-warning-foreground: var(--accent-color);
-  --tab-selected: #354249;
-  --switch: #3d4c53;
+  --tab-selected: #343a40;
+  --switch: #343a40;
   --activity-card-background: var(--background-1);
   --brand-experiment: var(--accent-color) !important;
   /* buttons */
   --button-background: #2a3439;
-  --button-background-hover: #354249;
+  --button-background-hover: #343a40;
   --button-background-active: #4d5f68;
   --button-accent: var(--accent-color);
   --button-accent-hover: #d2f3ff;
