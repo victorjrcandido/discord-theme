@@ -43,7 +43,7 @@
  /*-------------DARK MODE-------------*/
  /*---------------BASIC---------------*/
  .theme-dark {
-   --accent-color: #f1f3f5;
+   --accent-color: #bde6fb;
    --background-1: #171d20;
    --background-2: #1e2529;
    --background-accent: #1e2529;
@@ -76,7 +76,7 @@
    --background-modifier-accent: transparent;
    --background-message-hover: transparent;
    /* text */
-   --text-normal: var(--accent-color);
+   --text-normal: #f1f3f5;
    --text-positive: var(--text-normal);
    --text-muted: #6d8692;
    --text-link: #edf8fe;
